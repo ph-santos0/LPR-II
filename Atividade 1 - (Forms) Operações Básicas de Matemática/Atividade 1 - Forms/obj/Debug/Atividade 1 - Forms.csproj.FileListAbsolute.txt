@@ -1,0 +1,10 @@
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\bin\Debug\Atividade 1 - Forms.exe.config
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\bin\Debug\Atividade 1 - Forms.exe
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\bin\Debug\Atividade 1 - Forms.pdb
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade 1 - Forms.csproj.AssemblyReference.cache
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade_1___Forms.Form1.resources
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade_1___Forms.Properties.Resources.resources
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade 1 - Forms.csproj.GenerateResource.cache
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade 1 - Forms.csproj.CoreCompileInputs.cache
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade 1 - Forms.exe
+D:\IFMG\Matérias\LPR II\Aulas\Atividade 1 - Forms\Atividade 1 - Forms\obj\Debug\Atividade 1 - Forms.pdb
