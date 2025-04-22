@@ -1,0 +1,34 @@
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\bin\Debug\Lista 1 - Forms.exe.config
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\bin\Debug\Lista 1 - Forms.exe
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\bin\Debug\Lista 1 - Forms.pdb
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.csproj.AssemblyReference.cache
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.Properties.Resources.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.csproj.GenerateResource.cache
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.csproj.CoreCompileInputs.cache
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.exe
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.pdb
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade2.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.TelaInicial.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade3.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade4.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade5.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade6.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade7.resources
+D:\IFMG\Matérias\LPR II\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade8.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\bin\Debug\Lista 1 - Forms.exe.config
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\bin\Debug\Lista 1 - Forms.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\bin\Debug\Lista 1 - Forms.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.csproj.AssemblyReference.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade3.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade4.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade5.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade6.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade7.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade8.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.TelaInicial.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.FormAtividade2.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista_1___Forms.Properties.Resources.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.csproj.GenerateResource.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.csproj.CoreCompileInputs.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Lista 1 - Forms\Lista 1 - Forms\obj\Debug\Lista 1 - Forms.pdb
