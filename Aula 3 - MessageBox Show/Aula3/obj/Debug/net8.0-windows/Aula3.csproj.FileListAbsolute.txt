@@ -1,0 +1,16 @@
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\bin\Debug\net8.0-windows\Aula3.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\bin\Debug\net8.0-windows\Aula3.deps.json
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\bin\Debug\net8.0-windows\Aula3.runtimeconfig.json
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\bin\Debug\net8.0-windows\Aula3.dll
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\bin\Debug\net8.0-windows\Aula3.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.Form1.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.csproj.GenerateResource.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.AssemblyInfoInputs.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.AssemblyInfo.cs
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.csproj.CoreCompileInputs.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.dll
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\refint\Aula3.dll
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\Aula3.genruntimeconfig.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Aulas\Aula3\Aula3\obj\Debug\net8.0-windows\ref\Aula3.dll
