@@ -1,0 +1,39 @@
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\bin\Debug\Lista 2.exe.config
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\bin\Debug\Lista 2.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\bin\Debug\Lista 2.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.AssemblyReference.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Properties.Resources.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.GenerateResource.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.CoreCompileInputs.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.TelaInicial.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Questao1.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Questao2.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\bin\Debug\Lista 2.exe.config
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\bin\Debug\Lista 2.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\bin\Debug\Lista 2.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.AssemblyReference.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista_2.Questao2.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista_2.TelaInicial.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista_2.Questao1.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista_2.Properties.Resources.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.GenerateResource.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.CoreCompileInputs.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista 2.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista 2.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\Lista 2\Lista 2\obj\Debug\Lista_2.Questao3.resources
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\bin\Debug\Lista 2.exe.config
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\bin\Debug\Lista 2.exe
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\bin\Debug\Lista 2.pdb
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.AssemblyReference.cache
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.exe.config
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Questao2.resources
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Questao3.resources
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.TelaInicial.resources
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Questao1.resources
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista_2.Properties.Resources.resources
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.GenerateResource.cache
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.csproj.CoreCompileInputs.cache
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.exe
+D:\IFMG\Matérias\LPR II\Lista 2\Lista 2\obj\Debug\Lista 2.pdb
