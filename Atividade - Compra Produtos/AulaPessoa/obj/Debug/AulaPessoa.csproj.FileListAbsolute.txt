@@ -1,0 +1,20 @@
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\bin\Debug\AulaPessoa.exe.config
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\bin\Debug\AulaPessoa.exe
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\bin\Debug\AulaPessoa.pdb
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.csproj.AssemblyReference.cache
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.Form1.resources
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.Properties.Resources.resources
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.csproj.GenerateResource.cache
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.csproj.CoreCompileInputs.cache
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.exe
+E:\Usuários\0077530\source\repos\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\bin\Debug\AulaPessoa.exe.config
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\bin\Debug\AulaPessoa.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\bin\Debug\AulaPessoa.pdb
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.csproj.AssemblyReference.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.Form1.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.Properties.Resources.resources
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.csproj.GenerateResource.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.csproj.CoreCompileInputs.cache
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.exe
+E:\Usuários\0077113\Documents\Visual Studio 2022\Códigos\LPR II\AulaPessoa\AulaPessoa\obj\Debug\AulaPessoa.pdb
