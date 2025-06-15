@@ -30,13 +30,21 @@ namespace Prova_1
             Console.WriteLine("Insira a frequencia do aluno: ");
             int freq = Convert.ToInt32(Console.ReadLine());
 
-            if (nota > 60.0 && freq > 75)
+            if (nota >= 60.0 && freq >= 75)
             {
                 Console.WriteLine("Aprovado");
             }
+            else if (nota < 60.0 && freq < 75)
+            {
+                Console.WriteLine("Reprovado por nota e por falta.");
+            }
+            else if (nota < 60.0 && freq >= 75)
+            {
+                Console.WriteLine("Reprovado por nota.");
+            }
             else
             {
-                Console.WriteLine("Reprovado");
+                Console.WriteLine("Reprovado por falta.");
             }
 
         }
