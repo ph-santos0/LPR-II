@@ -1,0 +1,11 @@
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe.config
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\bin\Debug\Funcionarios.pdb
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.AssemblyReference.cache
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.Form1.resources
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.Properties.Resources.resources
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.GenerateResource.cache
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.CoreCompileInputs.cache
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.exe
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.pdb
+D:\Downloads\LPR II\Atividade 5 - Funcionarios\Funcionarios\obj\Debug\Funcionarios.exe.config

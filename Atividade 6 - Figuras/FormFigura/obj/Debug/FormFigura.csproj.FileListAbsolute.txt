@@ -1,0 +1,21 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\bin\Debug\FormFigura.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\bin\Debug\FormFigura.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\bin\Debug\FormFigura.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.pdb
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\bin\Debug\FormFigura.exe.config
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\bin\Debug\FormFigura.exe
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\bin\Debug\FormFigura.pdb
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.csproj.AssemblyReference.cache
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.exe.config
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.Form1.resources
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.Properties.Resources.resources
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.csproj.GenerateResource.cache
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.csproj.CoreCompileInputs.cache
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.exe
+D:\Downloads\LPR II\Atividade 6 - Figuras\FormFigura\obj\Debug\FormFigura.pdb
