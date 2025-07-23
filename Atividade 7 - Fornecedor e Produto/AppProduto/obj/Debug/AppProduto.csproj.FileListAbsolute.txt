@@ -1,0 +1,20 @@
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.csproj.AssemblyReference.cache
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.Properties.Resources.resources
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.csproj.GenerateResource.cache
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.csproj.CoreCompileInputs.cache
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\bin\Debug\AppProduto.exe.config
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\bin\Debug\AppProduto.exe
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\bin\Debug\AppProduto.pdb
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.Form1.resources
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.exe
+E:\Usuários\0077110\source\repos\AppProduto\AppProduto\obj\Debug\AppProduto.pdb
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\bin\Debug\AppProduto.exe.config
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\bin\Debug\AppProduto.exe
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\bin\Debug\AppProduto.pdb
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.csproj.AssemblyReference.cache
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.Form1.resources
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.Properties.Resources.resources
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.csproj.GenerateResource.cache
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.csproj.CoreCompileInputs.cache
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.exe
+E:\Usuários\0077113\Downloads\Atividade 7 - Fornecedor e Produto\AppProduto\obj\Debug\AppProduto.pdb
