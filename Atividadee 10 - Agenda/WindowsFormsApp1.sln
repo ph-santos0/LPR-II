@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda", "WindowsFormsApp1\Agenda.csproj", "{8589151F-1862-4A30-A080-1F125765DE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8589151F-1862-4A30-A080-1F125765DE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8589151F-1862-4A30-A080-1F125765DE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8589151F-1862-4A30-A080-1F125765DE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8589151F-1862-4A30-A080-1F125765DE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5698E9-4AF5-413C-92D2-18101C61BB59}
+	EndGlobalSection
+EndGlobal
